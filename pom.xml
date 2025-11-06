@@ -61,6 +61,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>employee-api</fianlName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
